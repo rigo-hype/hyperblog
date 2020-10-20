@@ -3,7 +3,21 @@ body
     color: #333;
     text-align: center;
     font-family: "arial";
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
 }
+
+#cabecera
+{
+background: #88F;
+box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+color: white;
+font-weight: bold;
+margin: 0;
+padding: 0.5cm;
+}
+
 #container
 {
     width: 70%;
